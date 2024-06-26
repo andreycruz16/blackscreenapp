@@ -7,8 +7,8 @@ This project creates a simple webpage with a black background.
 This project is designed to create a minimalistic webpage with a black background, which can be used for various purposes such as reducing eye strain, especially in low-light environments. The simple and clean design makes it ideal for use as a new tab page in your web browser.
 
 ## Deployments
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b6959f4-6c3d-4a75-b7bc-c451eac99ba5/deploy-status)](https://app.netlify.com/sites/blackscreenapp/deploys)
+Main: https://blackscreenapp.vercel.app/
 
-Main App: https://blackscreenapp.netlify.app/
+Alternative #1: https://blackscreenapp.netlify.app/
 
-Alternative: https://blackscreen.surge.sh/
+Alternative #2: https://blackscreen.surge.sh/
